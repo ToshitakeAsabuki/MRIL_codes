@@ -10,3 +10,4 @@ These codes are written in python3. We ran the codes with numpy 1.15.3, scipy  1
 ・bss.py : Performing blind source separation with simple example. Running this code generates figures for true and mixed sources and trained activities. This is a code for Fig. 7, yet here we used simple input signals since we used external public data sets in Fig. 7. 
 
 # MRIL_codes
+# MRIL_codes
